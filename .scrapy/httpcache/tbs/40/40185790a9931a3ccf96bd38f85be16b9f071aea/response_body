@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Enoch Kever PLLC</title>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26745210-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+
+<body>
+<div id="main">
+  <table width="1200" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="left" valign="top"><table width="1200" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="363"><a href="index.html"><img src="images/toplogo.jpg" width="363" height="64" border="0" /></a></td>
+          <td width="837"><div id="main-nav-bar"><span class="mainnavlink"><a href="index.html" class="active-nav">HOME</a></span><span class="mainnavlink"><a href="practices.html">WHAT WE DO</a></span><span class="mainnavlink"><a href="our-team.html">OUR TEAM</a></span><span class="mainnavlink"><a href="newsroom.html">NEWSROOM</a></span><span class="mainnavlink"><a href="careers.html">CAREERS</a></span><a href="contact.html">Contact</a></div></td>
+        </tr>
+      </table>
+      <a href="index.html"></a></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top"><img src="images/top_home_image.jpg" width="1200" height="346" border="0" usemap="#Map" /></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><table width="1200" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="111" height="20">&nbsp;</td>
+          <td width="480" height="20">&nbsp;</td>
+          <td width="19">&nbsp;</td>
+          <td width="480" height="20">&nbsp;</td>
+          <td width="110" height="20">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="111">&nbsp;</td>
+          <td width="480" align="center" valign="top"><p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+<div onclick="location.href='practices.html';" style="cursor:pointer;" id="left-home-box">
+            <h2 class="homeboxheadline">Advocates For Business.</h2>
+            <p style="margin-bottom: 0;">We have more than 100 years of combined experience working <br />
+              where business intersects with government. Because our 
+              experience includes public service, private law firm and corporate counsel practice, we can traverse this complex intersection wherever we need to go, whether appearing before the courts, regulatory agencies <br />
+              or the Legislature.</p>
+          </div></td>
+          <td width="19" align="center" valign="top">&nbsp;</td>
+          <td width="480" align="center" valign="top"><p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+<div onclick="location.href='our-team.html';" style="cursor:pointer;" id="right-home-box">
+            <h2 class="homeboxheadline">MEET OUR TEAM.</h2>
+            <p style="margin-bottom: 0;">The seasoned E<span class="smallbodytext">NOCH</span> K<span class="smallbodytext">EVER</span> team offers a diverse background that includes both government service and business advocacy. This unique combination of experience provides our clients with a powerful voice that supports  their business.</p>
+          </div></td>
+          <td width="110">&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="111" height="27">&nbsp;</td>
+          <td width="480" height="27">&nbsp;</td>
+          <td width="19">&nbsp;</td>
+          <td width="480" height="27">&nbsp;</td>
+          <td width="110" height="27">&nbsp;</td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><div id="footer">
+        <table width="960" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="339" align="left" valign="top">&copy; 2011 E<span class="smallfootertext">NOCH</span> K<span class="smallfootertext">EVER</span> P<span class="smallfootertext">LLC</span>. ALL RIGHTS RESERVED.</td>
+            <td width="368" align="center" valign="top">&nbsp;&nbsp;600 CONGRESS AVENUE, SUITE 2800&nbsp;&nbsp;|&nbsp;&nbsp;AUSTIN, TEXAS 78701</td>
+            <td width="253" align="right" valign="top">P: 512.615.1200&nbsp;&nbsp;|&nbsp;&nbsp;F:512.615.1198</td>
+          </tr>
+        </table>
+      </div></td>
+    </tr>
+  </table>
+  <br />
+  <br />
+</div>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="159,4,368,58" href="index.html" />
+</map>
+</body>
+</html>

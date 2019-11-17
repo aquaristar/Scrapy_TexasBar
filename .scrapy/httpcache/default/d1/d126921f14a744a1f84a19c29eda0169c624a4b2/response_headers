@@ -1,0 +1,10 @@
+X-Xss-Protection: 1; mode=block
+Content-Encoding: gzip
+Set-Cookie: NID=77=F2y76VGXkMcGL5QtyuEGAVwa7i-P0crnFrEKlTa2D0Xn-VdWIodpvKWaVhaDaTSXOXvWwStcjYRWNyWNiKpNDP7SCt0_HqBEXWAPFHmPK01lyeROYk8a9svV6cUKWhu8; expires=Tue, 06-Sep-2016 15:29:06 GMT; path=/; domain=.google.ca; HttpOnly
+Expires: -1
+Server: gws
+Cache-Control: private, max-age=0
+Date: Mon, 07 Mar 2016 15:29:06 GMT
+P3P: CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Content-Type: text/html; charset=ISO-8859-1
+X-Frame-Options: SAMEORIGIN

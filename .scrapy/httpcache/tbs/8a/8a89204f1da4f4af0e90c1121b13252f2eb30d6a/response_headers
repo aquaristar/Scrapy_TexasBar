@@ -1,0 +1,11 @@
+X-Aspnetmvc-Version: 5.1
+X-Aspnet-Version: 4.0.30319
+Content-Encoding: gzip
+Set-Cookie: CycleProtectionManager=Cycle=1; path=/
+Set-Cookie: ASP.NET_SessionId=a4fx0ujoe0ej0gbtmsnr33a5; path=/; HttpOnly
+X-Powered-By: ASP.NET
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.0
+Cache-Control: private
+Date: Sat, 05 Mar 2016 03:09:44 GMT
+Content-Type: text/html; charset=utf-8

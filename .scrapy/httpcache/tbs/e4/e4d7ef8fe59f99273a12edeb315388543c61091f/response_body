@@ -1,0 +1,485 @@
+
+<!doctype html>
+<html>
+
+<!DOCTYPE html>
+
+
+<head>
+    <title>Contact Us |  Baker Botts LLP</title>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+    
+
+<meta name='description' content=''>
+<meta name='keywords' content=''>
+
+<!-- For Chrome for Android: -->
+
+<link rel="apple-touch-icon-precomposed" href="/assets/src/images/icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" href="/assets/src/images/icon-152x152.png">
+<link rel="apple-touch-icon-precomposed" href="/assets/src/images/icon-180x180.png">
+<link rel="icon"  href="/favicon.ico">
+
+<!-- Facebook Open Graph / Google Plus + -->
+<!-- Application ID for FB <meta content="fb:app_id" content=""> -->
+<meta property='og:type' content='website'>
+<meta property='og:title' content='Contact Us |  Baker Botts LLP'>
+<meta property='og:site_name' content='Baker Botts LLP'>
+<meta property='og:url' content='http://www.bakerbotts.com/contactus'>
+<meta property='og:description' content='Baker Botts is an international law firm of approximately 725 lawyers practicing throughout a network of 14 offices around the globe. Based on our experience and knowledge of our clients’ industries, we are recognized as a leading firm in the energy, technology and life sciences sectors. Throughout our 175-year history, we have provided creative and effective legal solutions for our clients while demonstrating an unrelenting commitment to excellence.' >
+    <meta property='og:image' content='http://www.bakerbotts.com/assets/src/images/logo.gif'>
+
+
+<!-- Twitter Cards / * Using property/not name to pass validation -->
+<!-- You must be approved to display twitter cards -->
+<meta name='twitter:card' content='Summary'>
+<meta name='twitter:url' content='http://www.bakerbotts.com/contactus'>
+<meta name='twitter:title' content='Contact Us |  Baker Botts LLP'>
+<meta name='twitter:description' content='Baker Botts is an international law firm of approximately 725 lawyers practicing throughout a network of 14 offices around the globe. Based on our experience and knowledge of our clients’ industries, we are recognized as a leading firm in the energy, technology and life sciences sectors. Throughout our 175-year history, we have provided creative and effective legal solutions for our clients while demonstrating an unrelenting commitment to excellence. '>
+
+<meta content='Baker Botts LLP' name='twitter:site'>
+<meta content='Baker Botts LLP' name='twitter:creator'>
+
+
+<meta name="limitfilter" content='other' /> 
+
+
+
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+    <link rel="stylesheet" type="text/css" href="/assets/src/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/src/bower_components/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/src/css/addtohomescreen.css" />
+    
+    <script src="//use.typekit.net/hkk1rpx.js"></script>
+    <script>try { Typekit.load(); } catch (e) { }</script>
+    <script src="/assets/src/bower_components/modernizr/modernizr.js"></script>
+    <script src="/assets/src/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="/assets/src/js/helpers.js"></script>
+</head>
+
+    <body data-mobile-trigger>
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MZZHD3"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-MZZHD3');</script>
+        <!-- End Google Tag Manager -->
+
+        <section class="global-wrapper">
+<header class="global-header" >
+    <div class="content-wrapper">
+        
+        
+        <a href="/"class="pull-right global-logo">
+            <img src='/assets/src/images/logo.gif' />
+        </a>
+
+        <div class="nav-group pull-left">
+            
+            
+            <nav class="secondary-nav">
+                        <a class="secondary-nav-link secondary-nav-mega-link" href="">About Us</a>
+                        <a class="secondary-nav-link secondary-nav-mega-link" href="">Careers</a>
+                        <a class="secondary-nav-link secondary-nav-mega-link" href="">News</a>
+                        <a class="secondary-nav-link" href="/events">Events</a>
+                
+                    
+                <a class="social-follow" href="">Follow</a>
+                <div class="social-follow-links" ng-class="{'is-active-social': showSocial}">
+                    <div class="social-follow-wrap">
+                            <a target="_blank" href="https://www.linkedin.com/company/8300" class="social-follow-icon">
+                                <i class="fa fa-linkedin"></i>
+                            </a>
+                                                    <a target="_blank" href="https://twitter.com/bakerbotts" class="social-follow-icon">
+                                <i class="fa fa-twitter"></i>
+                            </a>
+                                                    <a target="_blank" href="https://plus.google.com/+bakerbotts/posts" class="social-follow-icon">
+                                <i class="fa fa-google-plus"></i>
+                            </a>
+                                                    <a target="_blank" href="https://www.youtube.com/channel/UCgys2C8DwRY-BVN079QNnwQ" class="social-follow-icon">
+                                <i class="fa fa-youtube"></i>
+                            </a>
+                                             </div>
+                </div>
+            </nav>
+            
+            
+            <nav class="primary-nav">
+                        <a class='primary-nav-link ' href="/people">People</a>
+                        <a class='primary-nav-link ' href="/experience">Experience</a>
+                        <a class='primary-nav-link ' href="/services">Services</a>
+                        <a class='primary-nav-link ' href="/ideas">Ideas</a>
+                        <a class='primary-nav-link ' href="/globalreach">Global Reach</a>
+            </nav>
+        </div>
+
+        <button class="js-site-search global-search-btn" href=""><i class="fa fa-search"></i></button>
+		<a href="#0" class="nav-mobile-toggle js-mobile-trigger"><span></span><em>MENU</em></a>
+    </div>
+</header>
+    <section class="global-submenu"> 
+        <div class="nav-group">
+                    <nav  class="submenu-nav" >
+                            <a class="submenu-nav-link" href="/aboutus/overview">Overview</a>
+                            <a class="submenu-nav-link" href="/aboutus/community">Community</a>
+                            <a class="submenu-nav-link" href="/aboutus/culture">Culture</a>
+                            <a class="submenu-nav-link" href="/aboutus/diversity">Diversity</a>
+                            <a class="submenu-nav-link" href="/aboutus/history">History</a>
+                            <a class="submenu-nav-link" href="/aboutus/management">Management</a>
+                            <a class="submenu-nav-link" href="/aboutus/pro-bono">Pro Bono</a>
+                    </nav>
+                    <nav  class="submenu-nav" >
+                            <a class="submenu-nav-link" href="/careers/working-at-baker-botts">Working at Baker Botts</a>
+                            <a class="submenu-nav-link" href="/careers/law-students">Law Students</a>
+                            <a class="submenu-nav-link" href="/careers/lateral-lawyers">Lateral Lawyers</a>
+                            <a class="submenu-nav-link" href="/careers/professional-staff">Professional Staff</a>
+                            <a class="submenu-nav-link" href="/careers/opportunities">Opportunities</a>
+                    </nav>
+                    <nav  class="submenu-nav" >
+                            <a class="submenu-nav-link" href="/news/subscribe">Subscribe</a>
+                            <a class="submenu-nav-link" href="/news/newsreleases">News Releases</a>
+                            <a class="submenu-nav-link" href="/news/newscoverage">News Coverage</a>
+                            <a class="submenu-nav-link" href="/news/recognitions">Recognitions</a>
+                            <a class="submenu-nav-link" href="/news/mediaresources">Media Resources</a>
+                    </nav>
+
+            <button href="#0"  class="global-submenu-close js-global-submenu-close"></button>
+        </div>
+    </section>
+
+            
+            <html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="https://bbreaction02.bakerbotts.com/reaction/RSGenPage.asp?RSID=Ql50GGHrC-ame-hfVMYHWbix6tN6e3-Fvyn-XdqjcTY">here</a>.</h2>
+</body></html>
+
+            
+    <footer class="global-footer">
+
+        <div class="content-wrapper global-locations">
+
+            <div class="global-locations-label">Locations:</div>
+            <nav>
+                
+                        <a href="/offices/austin" class="global-locations-office">Austin</a>
+                        <a href="/offices/beijing" class="global-locations-office">Beijing</a>
+                        <a href="/offices/brussels" class="global-locations-office">Brussels</a>
+                        <a href="/offices/dallas" class="global-locations-office">Dallas</a>
+                        <a href="/offices/dubai" class="global-locations-office">Dubai</a>
+                        <a href="/offices/hong-kong" class="global-locations-office">Hong Kong</a>
+                        <a href="/offices/houston" class="global-locations-office">Houston</a>
+                        <a href="/offices/kuwait-alliance" class="global-locations-office">Kuwait Alliance</a>
+                        <a href="/offices/london" class="global-locations-office">London</a>
+                        <a href="/offices/moscow" class="global-locations-office">Moscow</a>
+                        <a href="/offices/new-york" class="global-locations-office">New York</a>
+                        <a href="/offices/palo-alto" class="global-locations-office">Palo Alto</a>
+                        <a href="/offices/riyadh" class="global-locations-office">Riyadh</a>
+                        <a href="/offices/san-francisco" class="global-locations-office">San Francisco</a>
+                        <a href="/offices/washington" class="global-locations-office">Washington</a>
+
+
+		    </nav>
+
+        </div>
+
+        <div class=" copyright-info">
+
+            <p class="content-wrapper">
+            
+                <span class="copyright">&#169; 2016 Baker Botts L.L.P.</span>
+            
+                
+<a Class="footer-links" href="/footer/disclaimer">Disclaimer</a>                        <span class="footer-links">Attorney Advertising</span>
+<a Class="footer-links" href="/footer/cookies">Cookies</a><a Class="footer-links" href="/sitemap">SiteMap</a><a Class="footer-links" href="/contactus" title="Contact Us">Contact Us</a>            </p>
+		
+        </div>
+    </footer>
+
+        </section>
+        
+
+    <section class="global-mobile-nav">
+        <div class="global-mobile-nav-wrap">
+            <div class="nav-group">
+
+                <a class="back-btn" href="#0"><i class="fa fa-angle-left"></i> Back</a>
+
+                <nav class="primary-nav">
+                            <a class="primary-nav-link" href="/people">People</a>
+                            <a class="primary-nav-link" href="/experience">Experience</a>
+                            <a class="primary-nav-link" href="/services">Services</a>
+                            <a class="primary-nav-link" href="/ideas">Ideas</a>
+                            <a class="primary-nav-link" href="/globalreach">Global Reach</a>
+		      
+                </nav>
+
+                <nav class="secondary-nav">
+                    <ul class="nostyle">
+                                <li>
+                                        <a class="secondary-nav-link secondary-nav-mega-link" href="">About Us<i class="fa fa-angle-right"></i></a>
+                                         <ul class="nostyle subtree">
+                                                 <li><a href="/aboutus/overview">Overview</a></li>
+                                                 <li><a href="/aboutus/community">Community</a></li>
+                                                 <li><a href="/aboutus/culture">Culture</a></li>
+                                                 <li><a href="/aboutus/diversity">Diversity</a></li>
+                                                 <li><a href="/aboutus/history">History</a></li>
+                                                 <li><a href="/aboutus/management">Management</a></li>
+                                                 <li><a href="/aboutus/pro-bono">Pro Bono</a></li>
+                                         </ul>
+
+                                </li>
+                                <li>
+                                        <a class="secondary-nav-link secondary-nav-mega-link" href="">Careers<i class="fa fa-angle-right"></i></a>
+                                         <ul class="nostyle subtree">
+                                                 <li><a href="/careers/working-at-baker-botts">Working at Baker Botts</a></li>
+                                                 <li><a href="/careers/law-students">Law Students</a></li>
+                                                 <li><a href="/careers/lateral-lawyers">Lateral Lawyers</a></li>
+                                                 <li><a href="/careers/professional-staff">Professional Staff</a></li>
+                                                 <li><a href="/careers/opportunities">Opportunities</a></li>
+                                         </ul>
+
+                                </li>
+                                <li>
+                                        <a class="secondary-nav-link secondary-nav-mega-link" href="">News<i class="fa fa-angle-right"></i></a>
+                                         <ul class="nostyle subtree">
+                                                 <li><a href="/news/subscribe">Subscribe</a></li>
+                                                 <li><a href="/news/newsreleases">News Releases</a></li>
+                                                 <li><a href="/news/newscoverage">News Coverage</a></li>
+                                                 <li><a href="/news/recognitions">Recognitions</a></li>
+                                                 <li><a href="/news/mediaresources">Media Resources</a></li>
+                                         </ul>
+
+                                </li>
+                                <li>
+                                        <a class="secondary-nav-link" href="/events">Events</a>
+
+                                </li>
+
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </section>
+
+        
+
+<section data-global-search=".global-search-btn" class="global-search">
+	<div class="content-wrapper content-wrap">
+	    <div class="global-search-box pull-left">
+            <script>
+                function postInit() {
+
+                    google.search.cse.element.render(
+                    {
+                        div: "cse",
+                        tag: 'searchbox-only',
+                        attributes: {
+                            resultsUrl: '/sitesearch',
+                            newWindow: 'false',
+                            queryParameterName: 'query'
+                        }
+                    });
+
+                    $('.search').click(function () {
+                        var searchpage = '/sitesearch';
+                        var query = '?query=' + $('input.gsc-input').val();
+
+                        window.location = searchpage + query;
+                    })
+
+
+                    $(".gsc-input").attr("placeholder", "Search");
+                    $(".gsc-input").find(':input[placeholder]').placeholder();
+
+
+                    $('input.gsc-input').keyup(function (e) {
+                        if (e.keyCode == '13') {
+                            $('.search').trigger('click');
+                        } else if ($('input.gsc-input').val().length > 2) {
+                            $.ajax({
+                                type: "GET",
+                                url: '/api/sitecore/Components/LoadSuggestedResults' + '?query=' + $('input.gsc-input').val(),
+                                crossDomain: false
+                            }).done(function (data) {
+                                $('.suggested-results').html(data);
+                            });
+                        } else if ($('input.gsc-input').val().length <= 2) {
+                            $('.suggested-results').html('');
+                        }
+                    })
+                };                
+
+                window.__gcse = {
+                    callback: postInit
+                };
+
+	            (function () {
+	                var cx =  '001729409881330894987:1k7hyllpubc';
+	                var gcse = document.createElement('script');
+	                gcse.type = 'text/javascript';
+	                gcse.async = true;
+	                gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                        '//www.google.com/cse/cse.js?cx=' + cx;
+	                var s = document.getElementsByTagName('script')[0];
+	                s.parentNode.insertBefore(gcse, s);
+	            })();
+            </script>
+            <gcse:searchbox-only resultsUrl="/sitesearch" newWindow="false" queryParameterName="query"></gcse:searchbox-only>
+		    <button class="search"><i class="fa fa-search"></i></button>
+	    </div>
+
+	    <div class="pull-left global-search-results">
+		    <h3>Suggested Results</h3>
+            <div class="suggested-results">
+
+            </div>
+	    </div>
+    </div>
+</section>
+<div class="global-search-dropshadow"></div>
+<script>
+</script>
+<style>
+    input#gsc-i-id1 {
+        background-color: transparent !important;  
+        background: none !important; 
+        padding:10px 0 25px !important;   
+        border: 0 none !important;   
+        border-bottom: 1px solid #8b8b8b !important;   
+        width: 100%;   
+        font-size: 28px;   
+        line-height: 1;   
+        color: #fff;
+        content: 'Search';
+    }
+    div#gsc-iw-id1 {
+        background: transparent;
+        border: none;
+    }
+    .gsc-control-cse.gsc-control-cse-en {
+        background: transparent;
+        border: none;
+    }
+    .gsc-control-cse.gsc-control-cse-en {
+        padding: 0;
+    }
+    td#gs_tti50 {
+        padding-left: 0;
+        padding-top: 0;
+    }
+    input.gsc-search-button.gsc-search-button-v2 {
+        display: none;
+    }
+    td.gsib_b {
+        display: none;
+    }
+
+    .global-search-box button {
+        right: 55px;
+    }
+
+</style>
+
+
+<div id="sliding-popup" class="sliding-popup-bottom cookie-disclaimer">
+    <div class="popup-content">
+        <div id="popup-text">
+            This website uses cookies to improve functionality and performance. If you choose to continue browsing this website, you are giving implied consent to the use of cookies.
+        </div>
+        <div id="popup-buttons">
+            <button type="button" class="agree-button btn btn-submit">Accept</button>
+        </div>
+    </div>
+</div>
+
+<input type="hidden" class="js-browsernotice-title" value='Did you know that your Internet Explorer is out of date?'/>
+<input type="hidden" class="js-browsernotice-text" value='To get the best possible experience using our site we recommend that you upgrade to a modern web browser. To download a newer web browser click on the Upgrade button.'/>
+<input type="hidden" class="js-browsernotice-upgradetitle" value='Upgrade'/>
+<input type="hidden" class="js-browsernotice-upgradelink" value='http://browsehappy.com/'/>
+
+<script src="/assets/src/js/jquery/jquery.cookie.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/assets/src/js/iealert/style.css" />
+<script src="/assets/src/js/iealert/iealert.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        var hasCookie = $.cookie('bakerbotts-cookie');
+        if (hasCookie)
+            $("#sliding-popup").hide();
+        else
+            $("#sliding-popup").addClass('is-animating');
+
+        $(".agree-button").on("click", function () {
+            $.cookie("bakerbotts-cookie", 1, { expires: 1000, path: "/" });
+            $("#sliding-popup").fadeOut();
+        });
+        
+        var ieAlertCookie = $.cookie('bakerbotts-iealert');
+        if (!ieAlertCookie) {
+            $("body").iealert({
+                support: "ie8",
+                title: $(".js-browsernotice-title").val(),
+                text: $(".js-browsernotice-text").val(),
+                upgradeTitle: $(".js-browsernotice-upgradetitle").val(),
+                upgradeLink: $(".js-browsernotice-upgradelink").val()
+            });
+            $.cookie("bakerbotts-iealert", 1, { expires: 1000, path: "/" });
+        }
+    });
+
+</script>
+        
+
+<script src="/assets/src/js/libs/jquery.placeholder.min.js"></script>
+<script src="/assets/src/js/jquery/common.js"></script>
+<script src="/assets/src/js/jquery/readMore.js"></script>
+<script src="/assets/src/js/jquery/smoothScroll.js"></script>
+<script src="/assets/src/js/jquery/tabsDropdown.js"></script>
+<script>
+    var addToHomescreen,
+        hascookiePtabService;
+
+
+    if (typeof (window.jQuery) !== "undefined") {
+        $(document).ready(function () {
+            addToHomescreen = {
+                autoStart: true,
+                displayPace: 1440, // minutes -> once per day
+                startDelay: 3, //seconds
+                lifespan: 5, //seconds
+                skipFirstVisit: false,
+                maxDisplayCount: 0, // maximum number of times the callout will be displayed
+                icon: true
+            };
+
+            $.getScript("/assets/src/js/libs/addtohomescreen.min.js", function () {
+                hascookiePtabService = $.cookie('bakerbotts-ptabservice');
+
+                if (!hascookiePtabService) {
+                    //always show the popup for the ptab-trials service
+                    if (window.location.href.indexOf('ptab-trials') !== -1) {
+                        $.cookie("bakerbotts-ptabservice", 1, { expires: 1440 });
+                        addToHomescreen.removeSession();
+                    }
+                }
+
+                // call the addToHomescreen script to initialize
+                addToHomescreen();
+
+            }, true);
+        });
+    }
+</script>
+    </body>
+
+</html>
